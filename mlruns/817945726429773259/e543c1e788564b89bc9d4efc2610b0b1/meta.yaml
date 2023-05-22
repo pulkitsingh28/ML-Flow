@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Training/LHT/Assignment_2/2.2/mlruns/817945726429773259/e543c1e788564b89bc9d4efc2610b0b1/artifacts
+end_time: 1684745956823
+entry_point_name: ''
+experiment_id: '817945726429773259'
+lifecycle_stage: active
+run_id: e543c1e788564b89bc9d4efc2610b0b1
+run_name: fearless-donkey-499
+run_uuid: e543c1e788564b89bc9d4efc2610b0b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684745952080
+status: 3
+tags: []
+user_id: pulkit.singh

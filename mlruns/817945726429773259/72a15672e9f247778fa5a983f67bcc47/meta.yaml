@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Training/LHT/Assignment_2/2.2/mlruns/817945726429773259/72a15672e9f247778fa5a983f67bcc47/artifacts
+end_time: 1684745964821
+entry_point_name: ''
+experiment_id: '817945726429773259'
+lifecycle_stage: active
+run_id: 72a15672e9f247778fa5a983f67bcc47
+run_name: lyrical-ram-318
+run_uuid: 72a15672e9f247778fa5a983f67bcc47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684745962141
+status: 3
+tags: []
+user_id: pulkit.singh

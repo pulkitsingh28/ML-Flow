@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Training/LHT/Assignment_2/2.2/mlruns/817945726429773259/fe82492fe885404591e67f89f045ab2b/artifacts
+end_time: 1684745970875
+entry_point_name: ''
+experiment_id: '817945726429773259'
+lifecycle_stage: active
+run_id: fe82492fe885404591e67f89f045ab2b
+run_name: sincere-colt-797
+run_uuid: fe82492fe885404591e67f89f045ab2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684745968035
+status: 3
+tags: []
+user_id: pulkit.singh
